@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Apex-rag<br>👯 I’m looking to collaborate on Java , Go<br>🤝 I’m looking for help with Dev Guides on Kubernets<br>🌱 I’m currently learning Springboot , Kubernetes<br>💬 Ask me about AWS , TS , Docker<br>⚡ I'm a 4th year Undergrad
+🔭 I’m currently working on Apex-rag<br>👯 I’m looking to collaborate on Java , TS<br>🤝 I’m looking for help with Dev Guides on Kubernets<br>🌱 I’m currently learning Springboot , Kubernetes<br>💬 Ask me about AWS , TS , Docker<br>⚡ I'm a 4th year Undergrad
 
 
 # 💻 Tech Stack:
